@@ -189,7 +189,7 @@
 			nav .col-sm-3:first-child {
 				border-radius: 7px 7px 0px 0px !important;
 			}
-			nav .col-sm-3:last-child {
+			nav .col-sm-3:last-child, nav .col-sm-2:last-child {
 				border-radius: 0px 0px 7px 7px !important;
 			}
 		}
